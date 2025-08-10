@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:tasks/core/style/colors.dart';
+import 'package:tasks/core/constants/colors.dart';
 
 TextStyle titleStyle({
   Color color = AppColors.black,
