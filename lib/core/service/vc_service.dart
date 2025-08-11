@@ -45,7 +45,7 @@ class VideoService {
     try {
       final token = await _fetchUserToken(user.id);
 
-      _client = await StreamVideo.create(
+      _client = StreamVideo.create(
         _apiKey,
         user: User.regular(
           userId: user.id,

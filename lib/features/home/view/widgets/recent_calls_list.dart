@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:tasks/core/constants/colors.dart';
 import 'package:tasks/core/style/text_style.dart';
 import '../../../video_call_screen/view/screen/video_call_screen.dart';
 import '../../../video_call_screen/view_model/cubit/vc_cubit.dart';

@@ -4,7 +4,6 @@ import 'package:tasks/core/style/text_style.dart';
 import 'package:tasks/features/home/model/user_model.dart';
 import 'package:tasks/features/video_call_screen/view/screen/video_call_screen.dart';
 import 'package:tasks/features/video_call_screen/view_model/cubit/vc_cubit.dart';
-import '../../../../core/constants/colors.dart';
 
 class FavouritesSection extends StatelessWidget {
   final List<UserModel> favourites;
