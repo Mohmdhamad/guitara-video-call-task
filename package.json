@@ -1,0 +1,29 @@
+{
+  "name": "video-call-app",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohmdhamad/flutter-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohmdhamad/flutter-template/issues"
+  },
+  "homepage": "https://github.com/Mohmdhamad/flutter-template#readme",
+  "dependencies": {
+    "@stream-io/node-sdk": "^0.5.1",
+    "express": "^5.1.0"
+  }
+}

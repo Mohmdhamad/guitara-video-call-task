@@ -14,7 +14,7 @@ TextStyle titleStyle({
 }
 TextStyle bodyStyle({
   Color color = AppColors.black,
-  double textSize = 19.0,
+  double textSize = 17.0,
 }){
   return TextStyle(
     color: color,
