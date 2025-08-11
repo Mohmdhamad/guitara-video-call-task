@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:tasks/features/home/view/widgets/home_appbar.dart';
 import '../../view_model/cubit/app_cubit.dart';
 import '../../view_model/cubit/app_states.dart';
-import '../widgets/home_body.dart';
+import '../widgets/contacts_list.dart';
 
 class ContactsScreen extends StatelessWidget {
   const ContactsScreen({super.key});
